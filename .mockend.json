@@ -1,6 +1,8 @@
 {
-    "april":{
-        "one": "ハンバーグ",
-        "2nd": "オムライス"
-    }
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  }
 }
